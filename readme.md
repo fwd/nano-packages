@@ -4,7 +4,7 @@
   </p>
 </a>
 
-<h1 align="center">Nano Currency Package Manager</h1>
+<h1 align="center">Nano Community Packages</h1>
 
 ![line](https://github.com/fwd/n2/raw/master/.github/line.png)
 
