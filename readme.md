@@ -8,14 +8,14 @@
 
 ![line](https://github.com/fwd/n2/raw/master/.github/line.png)
 
-## ❯ Nano.to Packages
+## ❯ Nano.to Official Packages
 
-- [fwd/nano-cli](https://github.com/fwd/n1) - Nano Node Command Line Tool
-- [fwd/nano-docker](https://github.com/fwd/n1) - 1-Click Nano Node Setup
-- [fwd/nano-proxy](https://github.com/fwd/nano-proxy) - Lightweight Localhost RPC Proxy
-- [fwd/nano-pow](https://github.com/fwd/nano-pow) - Nano PoW Proxy w/ GPU Monetization
+- [Fwd/nano-cli](https://github.com/fwd/n1) - Nano Node Command Line Tool
+- [Fwd/nano-docker](https://github.com/fwd/n1) - 1-Click Nano Node Setup
+- [Fwd/nano-proxy](https://github.com/fwd/nano-proxy) - Lightweight Localhost RPC Proxy
+- [Fwd/nano-pow](https://github.com/fwd/nano-pow) - Nano PoW Proxy w/ GPU Monetization
 
-## Community Packages
+## Nano Community Packages
 
 - [Joohansson/NanoRPCProxy](https://github.com/Joohansson/NanoRPCProxy) - A RPC PRoxy (w/ PoW Monetization)
 - [Nault/Nault](https://github.com/Nault/Nault) - Self-Hosted Web Wallet
