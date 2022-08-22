@@ -23,12 +23,12 @@ Backend:
 ## Community Packages
 
 - [Joohansson/NanoRPCProxy](https://github.com/Joohansson/NanoRPCProxy) - A RPC PRoxy (w/ PoW Monetization)
-- [Nault/Nault](https://github.com/Nault/Nault) - Self-Hosted Web Wallet
-- [MarvinRoger/nanocurrency-js](https://github.com/marvinroger/nanocurrency-js) - Toolkit for Nano cryptocurrency client side offline integrations without requiring NodeJS functions
 - [LephLeg/nano-node-docker](https://github.com/lephleg/nano-node-docker) - Recommended for Representative Nodes (w/ SSL)
 - [PlasmaPower/nano-vanity](https://github.com/PlasmaPower/nano-vanity) - Generate Vanity Nano Addresses
 - [NanoTools/nanoNodeMonitor](https://github.com/NanoTools/nanoNodeMonitor) - Docs for Node Monitor.
 - [AppDitto/pippin_nano_wallet](https://github.com/appditto/pippin_nano_wallet) - Enterprise Wallet (Difficulty: High).
+- [Nault/Nault](https://github.com/Nault/Nault) - Self-Hosted Web Wallet
+- [MarvinRoger/nanocurrency-js](https://github.com/marvinroger/nanocurrency-js) - Toolkit for Nano cryptocurrency client side offline integrations without requiring NodeJS functions
 
 ## ❯ N2 Command Line
 
