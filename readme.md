@@ -10,10 +10,15 @@
 
 ## ❯ Nano.to Packages
 
-- [Fwd/nano-cli](https://github.com/fwd/n1) - Nano Node Command Line Tool
-- [Fwd/nano-docker](https://github.com/fwd/n1) - 1-Click Nano Node Setup
-- [Fwd/nano-proxy](https://github.com/fwd/nano-proxy) - Lightweight Localhost RPC Proxy
-- [Fwd/nano-pow](https://github.com/fwd/nano-pow) - Nano PoW Proxy w/ GPU Monetization
+Frontend:
+- [Checkout UI](https://github.com/fwd/nano-to) - Stripe Checkout for Nano
+- [Nano.to Cart](https://github.com/fwd/nano-cart) - **Coming soon**
+
+Backend:
+- [Nano RPC Server](https://github.com/fwd/nano-rpc) - Drop-in RPC for Node
+- [Nano PoW Server](https://github.com/fwd/nano-pow) - Standalone PoW Server
+- [Node Docker](https://github.com/fwd/nano-docker) - 1-Click Node Setup
+- [Nano Command Line](https://github.com/fwd/n2) - Drop-in RPC for Node
 
 ## Community Packages
 
@@ -24,6 +29,16 @@
 - [PlasmaPower/nano-vanity](https://github.com/PlasmaPower/nano-vanity) - Generate Vanity Nano Addresses
 - [NanoTools/nanoNodeMonitor](https://github.com/NanoTools/nanoNodeMonitor) - Docs for Node Monitor.
 - [AppDitto/pippin_nano_wallet](https://github.com/appditto/pippin_nano_wallet) - Enterprise Wallet (Difficulty: High).
+
+## ❯ N2 Command Line
+
+```
+$ n2 install nano-node
+$ n2 install fwd/nano-rpc
+$ n2 install nault/nault
+```
+
+Learn More: https://github.com/fwd/n2
 
 ## ❯ Stargazers
 
